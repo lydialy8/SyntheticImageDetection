@@ -1,6 +1,6 @@
 # Image Classification Score Prediction
 
-This project contains a Python script that predicts the scores for all images in a specified folder. The script fuses probabilities from a efficientNet based model and another based on pretrained clip Image Encoder to generate predictions and outputs the classification scores.
+This project contains a Python script that predicts the scores for all images in a specified folder. The script fuses probabilities from a efficientNet based model and another based on pretrained clip Image Encoder to generate predictions and outputs the classification scores. The generators that can be detected are StyleGAN1, StyleGAN2, StyleGAN3, Latent Diffusion, Stable Diffusion 1.5, Stable Diffusion 2.1, Stable Diffusion XL, MidJourney, Adobe FireFly (Online), Dall-e 3 (Bing Image Creator), Imagine – Meta AI, Adobe Photoshop Firefly (Gen Fill), Stable Diffusion XL Turbo or a natural image
 
 ## Requirements
 
